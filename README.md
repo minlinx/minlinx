@@ -1,7 +1,8 @@
 ## Hello World 👋
 
-🔭 I’m currently working on a Simple WordPress/GraphQL/React Blog. 
+🔭 I’m currently working on a Simple WordPress/GraphQL/React Blog: 
 <p align="center"> https://without-turbo-ek88wpnks-mba-ifeanyis-projects.vercel.app/</p>
+
 ## 🛠️ Languages and Tools
 
 <br>
