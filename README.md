@@ -1,11 +1,16 @@
-## Hi there 👋
+## Hello World 👋
 
-<!--
-**minlinx/minlinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Simple WordPress/GraphQL/React Blog. 
+## 🛠️ Languages and Tools
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,postman,figma" />
+</p>
+
+<hr>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
