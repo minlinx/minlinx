@@ -8,8 +8,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs, react, nextjs, mongodb, postgres, graphql" />
-  <img src="https://skillicons.dev/icons?i=html, css, tailwind, js, git, postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman" />
 </p>
 
 <hr>
