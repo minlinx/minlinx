@@ -9,6 +9,7 @@
 
 <div align="center">
   <span><img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,graphql" /></span>
+  <br>
   <span><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman" /></span>
 </div>
 
