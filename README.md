@@ -7,10 +7,10 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,graphql" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman" />
-</p>
+<div align="center">
+  <span><img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,graphql" /></span>
+  <span><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman" /></span>
+</div>
 
 <hr>
 
